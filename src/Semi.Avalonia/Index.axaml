@@ -7,6 +7,7 @@
                 <ResourceInclude x:Key="Default" Source="/Schemes/LightScheme.axaml" />
                 <ResourceInclude x:Key="Dark" Source="/Schemes/DarkScheme.axaml" />
                 <ResourceInclude x:Key="{x:Static semi:SemiTheme.Aquatic}" Source="/Schemes/AquaticScheme.axaml" />
+                <ResourceInclude x:Key="{x:Static semi:SemiTheme.ClearLight}" Source="/Schemes/ClearLightScheme.axaml" />
                 <ResourceInclude x:Key="{x:Static semi:SemiTheme.Desert}" Source="/Schemes/DesertScheme.axaml" />
                 <ResourceInclude x:Key="{x:Static semi:SemiTheme.Dusk}" Source="/Schemes/DuskScheme.axaml" />
                 <ResourceInclude x:Key="{x:Static semi:SemiTheme.NightSky}" Source="/Schemes/NightSkyScheme.axaml" />
