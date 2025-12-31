@@ -1,0 +1,18 @@
+<ResourceDictionary xmlns="https://github.com/avaloniaui" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Color x:Key="WindowColor">#F5F7F1</Color>
+    <Color x:Key="WindowTextColor">#1F2B24</Color>
+    <Color x:Key="HotlightColor">#4FA3A8</Color>
+    <Color x:Key="GrayTextColor">#6E7B73</Color>
+    <Color x:Key="HighlightTextColor">#1B3B2E</Color>
+    <Color x:Key="HighlightColor">#B9E4D0</Color>
+    <Color x:Key="ButtonTextColor">#1F2B24</Color>
+    <Color x:Key="ButtonFaceColor">#EEF3EC</Color>
+    <SolidColorBrush x:Key="SemiColorWindow" Color="{StaticResource WindowColor}" />
+    <SolidColorBrush x:Key="SemiColorWindowText" Color="{StaticResource WindowTextColor}" />
+    <SolidColorBrush x:Key="SemiColorHotlight" Color="{StaticResource HotlightColor}" />
+    <SolidColorBrush x:Key="SemiColorGrayText" Color="{StaticResource GrayTextColor}" />
+    <SolidColorBrush x:Key="SemiColorHighlightText" Color="{StaticResource HighlightTextColor}" />
+    <SolidColorBrush x:Key="SemiColorHighlight" Color="{StaticResource HighlightColor}" />
+    <SolidColorBrush x:Key="SemiColorButtonText" Color="{StaticResource ButtonTextColor}" />
+    <SolidColorBrush x:Key="SemiColorButtonFace" Color="{StaticResource ButtonFaceColor}" />
+</ResourceDictionary>

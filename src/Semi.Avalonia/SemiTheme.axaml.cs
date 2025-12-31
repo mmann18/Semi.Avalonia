@@ -10,6 +10,7 @@ namespace Semi.Avalonia;
 public class SemiTheme : Styles
 {
     public static ThemeVariant Aquatic => new(nameof(Aquatic), ThemeVariant.Dark);
+    public static ThemeVariant ClearLight => new(nameof(ClearLight), ThemeVariant.Light);
     public static ThemeVariant Desert => new(nameof(Desert), ThemeVariant.Light);
     public static ThemeVariant Dusk => new(nameof(Dusk), ThemeVariant.Dark);
     public static ThemeVariant NightSky => new(nameof(NightSky), ThemeVariant.Dark);
